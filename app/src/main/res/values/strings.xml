@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Login_Ui-Jetpack Compose</string>
+    <string name="logo">App Logo\n</string>
+    <string name="the_tolet">The Tolet\n</string>
+    <string name="find_house">Find Your House\n</string>
+    <string name="login">Login</string>
 </resources>
